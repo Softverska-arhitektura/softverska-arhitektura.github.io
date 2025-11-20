@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hrvatsko društvo za softversku arhitekturu</title>
+    <link>https://softverska-arhitektura.github.io/posts/</link>
+    <description>Recent content in Posts on Hrvatsko društvo za softversku arhitekturu</description>
+    <generator>Hugo</generator>
+    <language>hr</language>
+    <lastBuildDate>Thu, 20 Nov 2025 18:38:32 +0100</lastBuildDate>
+    <atom:link href="https://softverska-arhitektura.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Članak za testiranje</title>
+      <link>https://softverska-arhitektura.github.io/posts/clanak-za-testiranje/</link>
+      <pubDate>Thu, 20 Nov 2025 18:38:32 +0100</pubDate>
+      <guid>https://softverska-arhitektura.github.io/posts/clanak-za-testiranje/</guid>
+      <description>&lt;h2 id=&#34;naslov-i-podnaslovi&#34;&gt;Naslov i podnaslovi&lt;/h2&gt;&#xA;&lt;h3 id=&#34;podnaslov&#34;&gt;Podnaslov&lt;/h3&gt;&#xA;&lt;p&gt;Pellentesque id posuere velit, nec efficitur erat. Ut id ex dui. Cras ipsum purus, eleifend sit amet ex nec, volutpat consectetur massa. Etiam non rhoncus nisl, eget gravida sem. Ut bibendum ipsum nunc, eget vulputate mauris volutpat nec. Cras efficitur pellentesque quam eu tincidunt. Donec tempor nisl a mollis iaculis. Sed felis lectus, dignissim et euismod et, sagittis nec dui.&lt;/p&gt;&#xA;&lt;p&gt;Suspendisse interdum finibus sem, a facilisis augue pulvinar at. Vestibulum laoreet augue sem, a consequat magna imperdiet in. Phasellus a mauris vitae odio malesuada vehicula. In lacinia ornare turpis sit amet efficitur. Nulla massa nunc, tempor vitae neque rhoncus, semper ullamcorper dui. Duis feugiat diam ut tempus tempor. Integer dignissim leo leo, vitae elementum ligula tempor quis. Ut metus lorem, sodales ac aliquam vitae, tincidunt vitae metus. Aliquam mi velit, posuere eu eros eu, mollis ullamcorper magna. Morbi venenatis nulla sed tellus efficitur lacinia.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

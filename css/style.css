@@ -1,0 +1,29 @@
+* {margin: 0; padding: 0; border: 0; box-sizing: border-box;}
+
+body {font-family: serif; line-height: 1.2; font-size: 19px; }
+header {border-bottom:1px solid #ddd;}
+.header {display: flex; align-items: center;gap:1rem}
+footer {border-top:1px solid #ddd; margin-top: 2rem;}
+article, .wrap { max-width: 1000px; margin: 0 auto; padding: 0 1rem;}
+pre {font-size: 0.85rem; padding: 0.5rem; border: 1px solid #ddd;}
+
+.site-name {font-size: 2rem; text-decoration: none; font-variant: small-caps; color: #000; letter-spacing: 0.1rem;}
+.author {font-size: 0.9rem;}
+
+h1, h2, h3, h4 {font-weight: bold; font-family: sans-serif;}
+h1 {font-size: 4rem;
+    padding-bottom: 0.5rem; margin-top: 2rem; 
+    border-bottom: 1px solid #ddd}
+h2 {font-size: 2.5rem; 
+    margin: 3rem 0 1rem 0;}
+h3 {font-size: 1.73rem;
+    margin: 2rem 0 1rem 0;}
+h4 {font-size: 1.2rem;
+    margin: 1rem 0;}
+
+p {margin: 1rem 0;}
+
+ul, ol {margin-left: 2rem;}
+ul li, ol li {margin-top: 0.5rem;}
+dt {font-weight: bold; margin-top: 0.5rem;}
+dd {margin-left: 2rem;}
