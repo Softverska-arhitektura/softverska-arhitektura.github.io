@@ -6,10 +6,24 @@
     <description>Recent content on Hrvatsko društvo za softversku arhitekturu</description>
     <generator>Hugo</generator>
     <language>hr</language>
-    <lastBuildDate>Thu, 20 Nov 2025 18:38:32 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 18:35:23 +0100</lastBuildDate>
     <atom:link href="https://softverska-arhitektura.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Članak za testiranje</title>
+      <title>Hrvatsko društvo za softversku arhitekturu</title>
+      <link>https://softverska-arhitektura.github.io/home/</link>
+      <pubDate>Sun, 30 Nov 2025 18:35:23 +0100</pubDate>
+      <guid>https://softverska-arhitektura.github.io/home/</guid>
+      <description>&lt;h2 id=&#34;o-društvu&#34;&gt;O društvu&lt;/h2&gt;&#xA;&lt;p&gt;Hrvatsko društvo za softversku arhitekturu je neformalna inicijativa koja okuplja pojedince zainteresirane za softversku arhitekturu.&lt;/p&gt;&#xA;&lt;h2 id=&#34;tko-je-dobrodošao&#34;&gt;Tko je dobrodošao?&lt;/h2&gt;&#xA;&lt;p&gt;Vrata Društva su otvorena svima koji prepoznaju važnost arhitekture u softverskom inženjerstvu. Dobrodošli su:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;iskusni softverski arhitekti koji žele podijeliti svoja rješenja, izazove i naučene lekcije;&lt;/li&gt;&#xA;&lt;li&gt;senior developeri koji prirodno naginju arhitektonskim promišljanjima ili su na putu prema ulozi arhitekta;&lt;/li&gt;&#xA;&lt;li&gt;pripadnici akademske zajednice koji proučavaju, predaju ili se bave softverskom arhitekturom kao znanstvenom disciplinom;&lt;/li&gt;&#xA;&lt;li&gt;ostali dionici razvoja softverskih sustava;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;ali i svi ostali koje ova tema zanima iz bilo koje pobude.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Članak 001</title>
+      <link>https://softverska-arhitektura.github.io/clanci/clanak01/</link>
+      <pubDate>Sun, 30 Nov 2025 17:11:58 +0100</pubDate>
+      <guid>https://softverska-arhitektura.github.io/clanci/clanak01/</guid>
+      <description>&lt;h2 id=&#34;podnalosv&#34;&gt;Podnalosv&lt;/h2&gt;&#xA;&lt;p&gt;Malo teksta&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Članak za testiranje HTML elemenata</title>
       <link>https://softverska-arhitektura.github.io/posts/clanak-za-testiranje/</link>
       <pubDate>Thu, 20 Nov 2025 18:38:32 +0100</pubDate>
       <guid>https://softverska-arhitektura.github.io/posts/clanak-za-testiranje/</guid>
