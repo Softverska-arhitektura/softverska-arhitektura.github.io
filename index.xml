@@ -6,21 +6,14 @@
     <description>Recent content on Hrvatsko društvo za softversku arhitekturu</description>
     <generator>Hugo</generator>
     <language>hr</language>
-    <lastBuildDate>Sun, 30 Nov 2025 18:35:23 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 19:24:04 +0100</lastBuildDate>
     <atom:link href="https://softverska-arhitektura.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hrvatsko društvo za softversku arhitekturu</title>
-      <link>https://softverska-arhitektura.github.io/home/</link>
-      <pubDate>Sun, 30 Nov 2025 18:35:23 +0100</pubDate>
-      <guid>https://softverska-arhitektura.github.io/home/</guid>
-      <description>&lt;h2 id=&#34;o-društvu&#34;&gt;O društvu&lt;/h2&gt;&#xA;&lt;p&gt;Hrvatsko društvo za softversku arhitekturu je neformalna inicijativa koja okuplja pojedince zainteresirane za softversku arhitekturu.&lt;/p&gt;&#xA;&lt;h2 id=&#34;tko-je-dobrodošao&#34;&gt;Tko je dobrodošao?&lt;/h2&gt;&#xA;&lt;p&gt;Vrata Društva su otvorena svima koji prepoznaju važnost arhitekture u softverskom inženjerstvu. Dobrodošli su:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;iskusni softverski arhitekti koji žele podijeliti svoja rješenja, izazove i naučene lekcije;&lt;/li&gt;&#xA;&lt;li&gt;senior developeri koji prirodno naginju arhitektonskim promišljanjima ili su na putu prema ulozi arhitekta;&lt;/li&gt;&#xA;&lt;li&gt;pripadnici akademske zajednice koji proučavaju, predaju ili se bave softverskom arhitekturom kao znanstvenom disciplinom;&lt;/li&gt;&#xA;&lt;li&gt;ostali dionici razvoja softverskih sustava;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;ali i svi ostali koje ova tema zanima iz bilo koje pobude.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Članak 001</title>
-      <link>https://softverska-arhitektura.github.io/clanci/clanak01/</link>
-      <pubDate>Sun, 30 Nov 2025 17:11:58 +0100</pubDate>
-      <guid>https://softverska-arhitektura.github.io/clanci/clanak01/</guid>
-      <description>&lt;h2 id=&#34;podnalosv&#34;&gt;Podnalosv&lt;/h2&gt;&#xA;&lt;p&gt;Malo teksta&lt;/p&gt;</description>
+      <title>Rječnik pojmova softverske arhitekture</title>
+      <link>https://softverska-arhitektura.github.io/rjecnik/</link>
+      <pubDate>Sun, 30 Nov 2025 19:24:04 +0100</pubDate>
+      <guid>https://softverska-arhitektura.github.io/rjecnik/</guid>
+      <description>&lt;h2 id=&#34;a&#34;&gt;A&lt;/h2&gt;&#xA;&lt;dl&gt;&#xA;&lt;dt&gt;Arhitektura&lt;/dt&gt;&#xA;&lt;dd&gt;Ne postoji jedinstvena definicija softverske arhitekture. No, neke od poznatijih definicija su:&lt;/dd&gt;&#xA;&lt;dd&gt;&amp;ldquo;Softverska arhitektura sustava obuhvaća strukture ili strukture sustava, koje se sastoje od softverskih elemenata, njihovih vanjskih svojstava i odnosa među njima.&amp;rdquo; (Bass, Clements i Kazman, &lt;em&gt;Software Architecture in Practice&lt;/em&gt;)&lt;/dd&gt;&#xA;&lt;dd&gt;&amp;ldquo;Softverska arhitektura je temeljna organizacija sustava utjelovljena u njegovim komponentama, njihovim odnosima i okruženju, te načelima koja upravljaju njegovim oblikovanjem i razvojem.&amp;rdquo; (ISO/IEC/IEEE 42010:2011)&lt;/dd&gt;&#xA;&lt;dd&gt;&amp;ldquo;Arhitektura opisuje sustav kroz više pogleda (logički, razvojni, procesni, fizički + scenariji) koji zajedno daju cjelovitu sliku.&amp;rdquo; (Kruchten, &lt;em&gt;The 4+1 View Model of Architecture&lt;/em&gt;)&lt;/dd&gt;&#xA;&lt;/dl&gt;&#xA;&lt;h2 id=&#34;m&#34;&gt;M&lt;/h2&gt;&#xA;&lt;dl&gt;&#xA;&lt;dt&gt;Monolitna arhitektura&lt;/dt&gt;&#xA;&lt;dd&gt;Monolitna arhitektura je tradicionalni stil softverske arhitekture u kojem je cijela aplikacija izgrađena kao jedna cjelina. Sve funkcionalnosti, uključujući korisničko sučelje, poslovnu logiku i pristup podacima, implementirane su unutar jednog koda i distribuiraju se kao jedinstvena jedinica. Ovaj pristup omogućava jednostavnije pokretanje i implementaciju u početnim fazama razvoja jer ne zahtijeva kompleksnu infrastrukturu.&lt;/dd&gt;&#xA;&lt;/dl&gt;</description>
     </item>
     <item>
       <title>Članak za testiranje HTML elemenata</title>
